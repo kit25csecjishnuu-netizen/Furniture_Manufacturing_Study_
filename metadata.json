@@ -1,0 +1,6 @@
+{
+  "name": "VoiceBridge — AI Offline Speech & Text Accessibility",
+  "description": "Bridging communication gaps for differently abled people with offline on-device speech-to-text, text-to-speech, and face-to-face dialogue optimized for Arm architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
